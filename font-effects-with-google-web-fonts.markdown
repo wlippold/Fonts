@@ -2,6 +2,6 @@ Font Effects with Google Web Fonts
 ----------------------------------
 
 
-A [Pen](http://codepen.io/c3f3l0/pen/Fwzoc) by [c3f3l0](http://codepen.io/c3f3l0) on [CodePen](http://codepen.io/).
+A [Pen](http://codepen.io/mrlippold/pen/Fwzoc) by [mrlippold](http://codepen.io/mrlippold) on [CodePen](http://codepen.io/).
 
-[License](http://codepen.io/c3f3l0/pen/Fwzoc/license).
+[License](http://codepen.io/mrlippold/pen/Fwzoc/license).
